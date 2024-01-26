@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+/* Header */
+
+.header-body {
+    background-color: pink;
+    width: 100%;
+    min-height: 4rem;
+}
+
+/* Footer */
+
+.footer-body {
+    background-color: pink;
+    width: 100%;
+    min-height: 4rem;
+    bottom: 0;
+    position: fixed;
+}
